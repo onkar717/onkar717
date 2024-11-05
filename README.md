@@ -4,11 +4,14 @@
 
 <!-- <p align="left"> <a href="https://x.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p> -->
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes , and advanced Terraform for Infrastructure as Code**
 
-- 💬 Ask me about **AWS, Terraform (IaaC), Docker, Jenkins, Linux, Web Development**
+- 💬 Ask Me About: **AWS**, **Terraform (IaaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **Web Development**
 
 - 📫 Reach me at **onkarwork2234@gmail.com**
+
+- 🛠️ Future Goals: Dive deeper into **machine learning ops (MLOps)** and **multi-cloud strategies**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +30,6 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/> </a> &nbsp
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a> &nbsp 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> </a> &nbsp
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/> </a> &nbsp
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/> </a> &nbsp
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> &nbsp
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="45" height="45"/> </a> &nbsp
@@ -44,3 +46,6 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="45"/> </a> &nbsp </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar717&show_icons=true&locale=en&layout=compact" alt="onkar717" /></p>
+
+
+<p align="center">Let's connect and collaborate on exciting projects!</p>
