@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **AWS, Terraform (IaaC), Docker, Jenkins, Linux, Flutter**
 
-- 📫 Reach me at **onkarwork2234navsk8804@gmail.com**
+- 📫 Reach me at **onkarwork2234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
