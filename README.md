@@ -4,9 +4,9 @@
 
 <!-- <p align="left"> <a href="https://x.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p> -->
 
-- 🌱 I’m currently learning **Kubernetes, Node js**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **AWS, Terraform (IaaC), Docker, Jenkins, Linux, Flutter**
+- 💬 Ask me about **AWS, Terraform (IaaC), Docker, Jenkins, Linux, Web Development**
 
 - 📫 Reach me at **onkarwork2234@gmail.com**
 
@@ -15,7 +15,7 @@
 <a href="https://x.com/_ShelkeOnkar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onkar_shelke" height="40" width="40" /></a> &nbsp
 <a href="https://linkedin.com/in/onkar-shelke-55531024a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavkale88" height="40" width="40" /></a> &nbsp
 <a href="https://stackoverflow.com/users/22682877/onkar-shelke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vaishnav88sk" height="40" width="40" /></a> &nbsp
-<a href="https://www.leetcode.com/onkarshelke926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnav88sk" height="40" width="40" /></a> &nbsp
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnav88sk" height="40" width="40" /></a> &nbsp
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
