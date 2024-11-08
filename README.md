@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **onkarwork2234@gmail.com**
 
-- 🛠️ Future Goals: Dive deeper into **machine learning ops (MLOps)** and **multi-cloud strategies**
+- 🛠️ Future Goals: Dive deeper into **Genravtive-AI in Cloud** and **multi-cloud strategies**
 
 
 <h3 align="left">Connect with me:</h3>
