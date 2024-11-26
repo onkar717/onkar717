@@ -9,6 +9,7 @@
 - 💬 Ask Me About: **AWS**, **Terraform (IaaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **Web Development**
 
 - 📫 Reach me at **onkarwork2234@gmail.com**
+- ![](https://komarev.com/ghpvc/?username=onkar717&color=green&style=for-the-badge)
 
 - 🛠️ Future Goals: Dive deeper into **Genravtive-AI in Cloud** and **multi-cloud strategies**
 
