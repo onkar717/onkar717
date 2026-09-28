@@ -1,0 +1,64 @@
+name: Profile refresh
+
+# Keeps the profile README live:
+#   readme job: latest merged PRs, PRs in review and dev.to posts
+#   snake job:  contribution graph animation, published to the "output" branch
+on:
+  schedule:
+    - cron: "37 0 * * *" # every day at 06:07 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: false
+
+jobs:
+  readme:
+    name: Refresh live README sections
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Update merged PRs, PRs in review and posts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/refresh_readme.py
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet; then
+            echo "README already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: refresh live README sections"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+  snake:
+    name: Build contribution snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+          commit_message: "chore: update contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

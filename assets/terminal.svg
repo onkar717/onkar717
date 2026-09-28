@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="196" viewBox="0 0 800 196" role="img" aria-labelledby="title desc">
+  <title id="title">$ kubectl get engineer onkar-shelke -o wide</title>
+  <desc id="desc">Terminal output. NAME onkar-shelke, ROLE SRE, CLUSTERS 50+, MERGED-PRS 120+, CERTS CKA, KCNA, AWS-SAA, RHCSA, STATUS Available.</desc>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; font-size: 15px; }
+    .bar { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; fill: #8b949e; }
+    .fg { fill: #e6edf3; }
+    .dim { fill: #8b949e; }
+    .ok { fill: #3fb950; }
+    .blue { fill: #79c0ff; }
+    .purple { fill: #d2a8ff; }
+    .orange { fill: #ffa657; }
+    .typer { animation: type 1.8s steps(41, end) 0.6s forwards, hide 0.01s linear 2.5s forwards; }
+    .row { opacity: 0; animation: show 0.4s ease-out forwards; }
+    .r1 { animation-delay: 2.6s; }
+    .r2 { animation-delay: 2.9s; }
+    .r3 { animation-delay: 3.3s; }
+    .pulse { animation: pulse 2s ease-in-out 3.3s infinite; }
+    .blink { animation: blink 1s steps(1, end) 3.3s infinite; }
+    @keyframes type { to { transform: translateX(369px); } }
+    @keyframes hide { to { opacity: 0; } }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes pulse { 50% { opacity: 0.35; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .typer { display: none; }
+      .row { opacity: 1; animation: none; }
+      .pulse, .blink { animation: none; }
+    }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="798" height="194" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 13 A12 12 0 0 1 13 1 H787 A12 12 0 0 1 799 13 V36 H1 Z" fill="#161b22"/>
+  <line x1="1" y1="36.5" x2="799" y2="36.5" stroke="#30363d"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text x="400" y="23" text-anchor="middle" class="bar">onkar@pune: ~</text>
+
+  <!-- command -->
+  <text x="24" y="72" class="mono ok">$</text>
+  <text x="42" y="72" class="mono fg" textLength="369" lengthAdjust="spacing">kubectl get engineer onkar-shelke -o wide</text>
+  <g class="typer">
+    <rect x="42" y="55" width="380" height="23" fill="#0d1117"/>
+    <rect x="42" y="58" width="9" height="18" fill="#e6edf3"/>
+  </g>
+
+  <!-- header row -->
+  <g class="row r1 mono dim">
+    <text x="24" y="108">NAME</text>
+    <text x="159" y="108">ROLE</text>
+    <text x="222" y="108">CLUSTERS</text>
+    <text x="321" y="108">MERGED-PRS</text>
+    <text x="438" y="108">CERTS</text>
+    <text x="663" y="108">STATUS</text>
+  </g>
+
+  <!-- value row -->
+  <g class="row r2 mono">
+    <text x="24" y="134" class="fg">onkar-shelke</text>
+    <text x="159" y="134" class="blue">SRE</text>
+    <text x="222" y="134" class="orange">50+</text>
+    <text x="321" y="134" class="orange">120+</text>
+    <text x="438" y="134" class="purple">CKA,KCNA,AWS-SAA,RHCSA</text>
+    <circle class="pulse" cx="668" cy="129" r="4" fill="#3fb950"/>
+    <text x="679" y="134" class="ok">Available</text>
+  </g>
+
+  <!-- prompt -->
+  <g class="row r3 mono">
+    <text x="24" y="170" class="ok">$</text>
+    <rect class="blink" x="42" y="156" width="9" height="18" fill="#e6edf3"/>
+  </g>
+</svg>
