@@ -86,11 +86,11 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### 🔄 In review
 
 <!-- REVIEW:START -->
-- [kueueviz: add unit tests for cluster queue and cohort handlers](https://github.com/kubernetes-sigs/kueue/pull/16277) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
-- [kueueviz: add unit tests for local queue, namespace and flavor handlers](https://github.com/kubernetes-sigs/kueue/pull/16278) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
 - [kueueviz: return clusterQueueName and preemption in workload details](https://github.com/kubernetes-sigs/kueue/pull/16279) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
-- [fix: replace deprecated commonLabels in the kustomize base](https://github.com/hivecommons/hive/pull/9335) · [hivecommons/hive](https://github.com/hivecommons/hive) · opened 28 Sep 2026
-- [fix(tls): find the keystore Tomcat actually uses](https://github.com/web-servers/jws-diag/pull/70) · [web-servers/jws-diag](https://github.com/web-servers/jws-diag) · opened 24 Sep 2026
+- [kueueviz: add unit tests for local queue, namespace and flavor handlers](https://github.com/kubernetes-sigs/kueue/pull/16278) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
+- [kueueviz: add unit tests for cluster queue and cohort handlers](https://github.com/kubernetes-sigs/kueue/pull/16277) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
+- [docs: list the current src/deploy/k8s manifests in the technical review](https://github.com/hivecommons/hive/pull/9441) · [hivecommons/hive](https://github.com/hivecommons/hive) · opened 29 Sep 2026
+- [docs: name ingress-nginx in the README Kubernetes prerequisites](https://github.com/hivecommons/hive/pull/9440) · [hivecommons/hive](https://github.com/hivecommons/hive) · opened 29 Sep 2026
 <!-- REVIEW:END -->
 
 <details>
