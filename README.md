@@ -75,22 +75,22 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### ✅ Latest merged
 
 <!-- MERGED:START -->
-- [fix: always pull the floating hive image in the self-hosted Deployment](https://github.com/hivecommons/hive/pull/9334) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 28 Sep 2026
-- [docs: fix README Kubernetes storage and probe details](https://github.com/hivecommons/hive/pull/9176) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 28 Sep 2026
-- [docs: apply RBAC manifests in README Kubernetes steps](https://github.com/hivecommons/hive/pull/9168) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 27 Sep 2026
-- [Use the shared instance lookup in CONN-006 and finish the AGENTS.md update](https://github.com/web-servers/jws-diag/pull/68) · [web-servers/jws-diag](https://github.com/web-servers/jws-diag) · merged 23 Sep 2026
-- [Check the Tomcat process user in SEC-001, not the user running jws-diag](https://github.com/web-servers/jws-diag/pull/67) · [web-servers/jws-diag](https://github.com/web-servers/jws-diag) · merged 22 Sep 2026
-- [Read listening sockets from /proc instead of binding ports in CONN-006](https://github.com/web-servers/jws-diag/pull/65) · [web-servers/jws-diag](https://github.com/web-servers/jws-diag) · merged 22 Sep 2026
+- [docs: check the vllm rollout in hive-inference in manual-provisioning.md](https://github.com/hivecommons/hive/pull/9733) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
+- [docs: fix HIVE\_VLLM\_ENDPOINT comments in the standalone overlay](https://github.com/hivecommons/hive/pull/9731) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
+- [fix: pin the node-prep ubi-minimal image by digest](https://github.com/hivecommons/hive/pull/9732) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
+- [fix: point HIVE\_LLMD\_ENDPOINT at hive-llm-d-epp in the base Deployment](https://github.com/hivecommons/hive/pull/9730) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
+- [docs: fix the Kubernetes commands in src/README.md](https://github.com/hivecommons/hive/pull/9543) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 29 Sep 2026
+- [docs: remap stale line cites into src/deploy/k8s manifests](https://github.com/hivecommons/hive/pull/9542) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 29 Sep 2026
 <!-- MERGED:END -->
 
 #### 🔄 In review
 
 <!-- REVIEW:START -->
+- [kueueviz: add unit tests for cluster queue and cohort handlers](https://github.com/kubernetes-sigs/kueue/pull/16277) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
 - [kueueviz: return clusterQueueName and preemption in workload details](https://github.com/kubernetes-sigs/kueue/pull/16279) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
 - [kueueviz: add unit tests for local queue, namespace and flavor handlers](https://github.com/kubernetes-sigs/kueue/pull/16278) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
-- [kueueviz: add unit tests for cluster queue and cohort handlers](https://github.com/kubernetes-sigs/kueue/pull/16277) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
-- [docs: list the current src/deploy/k8s manifests in the technical review](https://github.com/hivecommons/hive/pull/9441) · [hivecommons/hive](https://github.com/hivecommons/hive) · opened 29 Sep 2026
-- [docs: name ingress-nginx in the README Kubernetes prerequisites](https://github.com/hivecommons/hive/pull/9440) · [hivecommons/hive](https://github.com/hivecommons/hive) · opened 29 Sep 2026
+- [fix(tls): find the keystore Tomcat actually uses](https://github.com/web-servers/jws-diag/pull/70) · [web-servers/jws-diag](https://github.com/web-servers/jws-diag) · opened 24 Sep 2026
+- [FIX: backport duplicate y-tick position fix from waterfall() to waterfall\_legacy()](https://github.com/shap/shap/pull/4967) · [shap/shap](https://github.com/shap/shap) · opened 4 May 2026
 <!-- REVIEW:END -->
 
 <details>
