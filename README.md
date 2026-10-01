@@ -75,12 +75,12 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### ✅ Latest merged
 
 <!-- MERGED:START -->
+- [fix: name xt\_mark in the missing netfilter module remediation](https://github.com/hivecommons/hive/pull/9762) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
+- [docs: list the InferencePool CRDs as a standalone overlay prerequisite](https://github.com/hivecommons/hive/pull/9760) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
+- [fix: pin the CI runner dind sidecar image by digest](https://github.com/hivecommons/hive/pull/9763) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
+- [fix: load xt\_mark in the node-prep DaemonSet](https://github.com/hivecommons/hive/pull/9761) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
 - [docs: check the vllm rollout in hive-inference in manual-provisioning.md](https://github.com/hivecommons/hive/pull/9733) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
 - [docs: fix HIVE\_VLLM\_ENDPOINT comments in the standalone overlay](https://github.com/hivecommons/hive/pull/9731) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
-- [fix: pin the node-prep ubi-minimal image by digest](https://github.com/hivecommons/hive/pull/9732) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
-- [fix: point HIVE\_LLMD\_ENDPOINT at hive-llm-d-epp in the base Deployment](https://github.com/hivecommons/hive/pull/9730) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
-- [docs: fix the Kubernetes commands in src/README.md](https://github.com/hivecommons/hive/pull/9543) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 29 Sep 2026
-- [docs: remap stale line cites into src/deploy/k8s manifests](https://github.com/hivecommons/hive/pull/9542) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 29 Sep 2026
 <!-- MERGED:END -->
 
 #### 🔄 In review
