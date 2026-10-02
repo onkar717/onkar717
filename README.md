@@ -75,12 +75,12 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### ✅ Latest merged
 
 <!-- MERGED:START -->
+- [docs: drop the removed RWX rolling upgrade advice from move-kubernetes.md](https://github.com/hivecommons/hive/pull/9865) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 1 Oct 2026
+- [docs: describe src/deploy/k8s correctly in the backup-exec-restriction README](https://github.com/hivecommons/hive/pull/9866) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 1 Oct 2026
+- [docs: fix the caps test path in the openshift-netadmin SCC comment](https://github.com/hivecommons/hive/pull/9867) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 1 Oct 2026
+- [docs: remap entrypoint.sh cites in move-kubernetes.md](https://github.com/hivecommons/hive/pull/9864) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 1 Oct 2026
 - [fix: name xt\_mark in the missing netfilter module remediation](https://github.com/hivecommons/hive/pull/9762) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
 - [docs: list the InferencePool CRDs as a standalone overlay prerequisite](https://github.com/hivecommons/hive/pull/9760) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
-- [fix: pin the CI runner dind sidecar image by digest](https://github.com/hivecommons/hive/pull/9763) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
-- [fix: load xt\_mark in the node-prep DaemonSet](https://github.com/hivecommons/hive/pull/9761) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
-- [docs: check the vllm rollout in hive-inference in manual-provisioning.md](https://github.com/hivecommons/hive/pull/9733) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
-- [docs: fix HIVE\_VLLM\_ENDPOINT comments in the standalone overlay](https://github.com/hivecommons/hive/pull/9731) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
 <!-- MERGED:END -->
 
 #### 🔄 In review
