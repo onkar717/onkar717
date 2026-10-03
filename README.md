@@ -75,22 +75,22 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### ✅ Latest merged
 
 <!-- MERGED:START -->
-- [docs: drop the removed RWX rolling upgrade advice from move-kubernetes.md](https://github.com/hivecommons/hive/pull/9865) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 1 Oct 2026
-- [docs: describe src/deploy/k8s correctly in the backup-exec-restriction README](https://github.com/hivecommons/hive/pull/9866) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 1 Oct 2026
-- [docs: fix the caps test path in the openshift-netadmin SCC comment](https://github.com/hivecommons/hive/pull/9867) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 1 Oct 2026
-- [docs: remap entrypoint.sh cites in move-kubernetes.md](https://github.com/hivecommons/hive/pull/9864) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 1 Oct 2026
-- [fix: name xt\_mark in the missing netfilter module remediation](https://github.com/hivecommons/hive/pull/9762) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
-- [docs: list the InferencePool CRDs as a standalone overlay prerequisite](https://github.com/hivecommons/hive/pull/9760) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 30 Sep 2026
+- [docs: remap entrypoint.sh cites in backup-restore.md](https://github.com/hivecommons/hive/pull/10157) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 2 Oct 2026
+- [docs: update the directory list in src/deploy/README.md](https://github.com/hivecommons/hive/pull/10158) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 2 Oct 2026
+- [fix: pin the error-pages and legacy-redirect nginx images by digest](https://github.com/hivecommons/hive/pull/10159) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 2 Oct 2026
+- [fix: pin the inference model-download init container by digest](https://github.com/hivecommons/hive/pull/10160) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 2 Oct 2026
+- [docs: remap the runtime config cite in HUB\_DISASTER\_RECOVERY.md](https://github.com/hivecommons/hive/pull/10156) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 2 Oct 2026
+- [kueueviz: add unit tests for cluster queue and cohort handlers](https://github.com/kubernetes-sigs/kueue/pull/16277) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 2 Oct 2026
 <!-- MERGED:END -->
 
 #### 🔄 In review
 
 <!-- REVIEW:START -->
-- [kueueviz: add unit tests for cluster queue and cohort handlers](https://github.com/kubernetes-sigs/kueue/pull/16277) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
-- [kueueviz: return clusterQueueName and preemption in workload details](https://github.com/kubernetes-sigs/kueue/pull/16279) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
 - [kueueviz: add unit tests for local queue, namespace and flavor handlers](https://github.com/kubernetes-sigs/kueue/pull/16278) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
 - [fix(tls): find the keystore Tomcat actually uses](https://github.com/web-servers/jws-diag/pull/70) · [web-servers/jws-diag](https://github.com/web-servers/jws-diag) · opened 24 Sep 2026
 - [FIX: backport duplicate y-tick position fix from waterfall() to waterfall\_legacy()](https://github.com/shap/shap/pull/4967) · [shap/shap](https://github.com/shap/shap) · opened 4 May 2026
+- [(go/v4): return an errors when is not possible to update the resources instead of failing silently](https://github.com/kubernetes-sigs/kubebuilder/pull/5926) · [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) · opened 28 Jul 2026
+- [fix: unpack np.where() tuple in potential\_interactions() to prevent ValueError](https://github.com/shap/shap/pull/4976) · [shap/shap](https://github.com/shap/shap) · opened 6 May 2026
 <!-- REVIEW:END -->
 
 <details>
