@@ -86,11 +86,11 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### 🔄 In review
 
 <!-- REVIEW:START -->
-- [kueueviz: add unit tests for local queue, namespace and flavor handlers](https://github.com/kubernetes-sigs/kueue/pull/16278) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
+- [Exclude trailing Prow commands from /set-release-note](https://github.com/kubernetes-sigs/kueue/pull/17101) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 13 Oct 2026
 - [fix(tls): find the keystore Tomcat actually uses](https://github.com/web-servers/jws-diag/pull/70) · [web-servers/jws-diag](https://github.com/web-servers/jws-diag) · opened 24 Sep 2026
-- [FIX: backport duplicate y-tick position fix from waterfall() to waterfall\_legacy()](https://github.com/shap/shap/pull/4967) · [shap/shap](https://github.com/shap/shap) · opened 4 May 2026
-- [(go/v4): return an errors when is not possible to update the resources instead of failing silently](https://github.com/kubernetes-sigs/kubebuilder/pull/5926) · [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) · opened 28 Jul 2026
-- [fix: unpack np.where() tuple in potential\_interactions() to prevent ValueError](https://github.com/shap/shap/pull/4976) · [shap/shap](https://github.com/shap/shap) · opened 6 May 2026
+- [kueueviz: keep workload details working when the LocalQueue is gone](https://github.com/kubernetes-sigs/kueue/pull/17105) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 13 Oct 2026
+- [kueueviz: derive workload status from conditions](https://github.com/kubernetes-sigs/kueue/pull/17104) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 13 Oct 2026
+- [kueueviz: add unit tests for local queue, namespace and flavor handlers](https://github.com/kubernetes-sigs/kueue/pull/16278) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 28 Sep 2026
 <!-- REVIEW:END -->
 
 <details>
