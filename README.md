@@ -75,22 +75,22 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### ✅ Latest merged
 
 <!-- MERGED:START -->
+- [kueueviz: fix the preemptor workload link in the dashboard](https://github.com/kubernetes-sigs/kueue/pull/17273) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 19 Oct 2026
+- [kueueviz: do not link to ClusterQueues and Cohorts that are not set](https://github.com/kubernetes-sigs/kueue/pull/17235) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 19 Oct 2026
 - [\[release-0.19\] kueueviz: keep workload details working when the LocalQueue is gone](https://github.com/kubernetes-sigs/kueue/pull/17364) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 16 Oct 2026
 - [kueueviz: send nodeLabels and nodeTaints in flavor details](https://github.com/kubernetes-sigs/kueue/pull/17272) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 16 Oct 2026
 - [kueueviz: keep workload details working when the LocalQueue is gone](https://github.com/kubernetes-sigs/kueue/pull/17105) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 15 Oct 2026
 - [kueueviz: remove unused WorkloadsList component](https://github.com/kubernetes-sigs/kueue/pull/17236) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 15 Oct 2026
-- [\[release-0.19\] kueueviz: add unit tests for local queue, namespace and flavor handlers](https://github.com/kubernetes-sigs/kueue/pull/17212) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 14 Oct 2026
-- [kueueviz: derive workload status from conditions](https://github.com/kubernetes-sigs/kueue/pull/17104) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 14 Oct 2026
 <!-- MERGED:END -->
 
 #### 🔄 In review
 
 <!-- REVIEW:START -->
-- [kueueviz: fix the preemptor workload link in the dashboard](https://github.com/kubernetes-sigs/kueue/pull/17273) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 15 Oct 2026
 - [Exclude trailing Prow commands from /set-release-note](https://github.com/kubernetes-sigs/kueue/pull/17101) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 13 Oct 2026
-- [kueueviz: do not link to ClusterQueues and Cohorts that are not set](https://github.com/kubernetes-sigs/kueue/pull/17235) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 15 Oct 2026
 - [fix(tls): find the keystore Tomcat actually uses](https://github.com/web-servers/jws-diag/pull/70) · [web-servers/jws-diag](https://github.com/web-servers/jws-diag) · opened 24 Sep 2026
 - [FIX: backport duplicate y-tick position fix from waterfall() to waterfall\_legacy()](https://github.com/shap/shap/pull/4967) · [shap/shap](https://github.com/shap/shap) · opened 4 May 2026
+- [fix: unpack np.where() tuple in potential\_interactions() to prevent ValueError](https://github.com/shap/shap/pull/4976) · [shap/shap](https://github.com/shap/shap) · opened 6 May 2026
+- [fix: preserve feature\_names when indexing Explanation with 2D output\_names](https://github.com/shap/shap/pull/4977) · [shap/shap](https://github.com/shap/shap) · opened 6 May 2026
 <!-- REVIEW:END -->
 
 <details>
