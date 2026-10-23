@@ -75,18 +75,18 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### ✅ Latest merged
 
 <!-- MERGED:START -->
+- [Exclude trailing Prow commands from /set-release-note](https://github.com/kubernetes-sigs/kueue/pull/17101) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 22 Oct 2026
 - [\[release-0.19\] kueueviz: fetch the flavor once for flavor details](https://github.com/kubernetes-sigs/kueue/pull/17568) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 21 Oct 2026
 - [kueueviz: fetch the flavor once for flavor details](https://github.com/kubernetes-sigs/kueue/pull/17537) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 21 Oct 2026
 - [kueueviz: apply review follow-ups for flavor details and dashboard](https://github.com/kubernetes-sigs/kueue/pull/17491) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 20 Oct 2026
 - [\[release-0.19\] kueueviz: fix the preemptor workload link in the dashboard](https://github.com/kubernetes-sigs/kueue/pull/17490) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 20 Oct 2026
 - [kueueviz: key workload and queue rows by namespace and name](https://github.com/kubernetes-sigs/kueue/pull/17493) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 20 Oct 2026
-- [\[release-0.19\] kueueviz: send nodeLabels and nodeTaints in flavor details](https://github.com/kubernetes-sigs/kueue/pull/17489) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 20 Oct 2026
 <!-- MERGED:END -->
 
 #### 🔄 In review
 
 <!-- REVIEW:START -->
-- [Exclude trailing Prow commands from /set-release-note](https://github.com/kubernetes-sigs/kueue/pull/17101) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 13 Oct 2026
+- [Show the release note in the /set-release-note success comment](https://github.com/kubernetes-sigs/kueue/pull/17606) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 22 Oct 2026
 - [kueueviz: read owner references and event names from metadata](https://github.com/kubernetes-sigs/kueue/pull/17536) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
 - [kueueviz: show the real pod set count on workload pages](https://github.com/kubernetes-sigs/kueue/pull/17538) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
 - [kueueviz: clear websocket data when the URL changes](https://github.com/kubernetes-sigs/kueue/pull/17535) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
