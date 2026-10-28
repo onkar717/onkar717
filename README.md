@@ -86,11 +86,11 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### 🔄 In review
 
 <!-- REVIEW:START -->
+- [kueueviz: clear websocket data when the URL changes](https://github.com/kubernetes-sigs/kueue/pull/17535) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
+- [kueueviz: show the real pod set count on workload pages](https://github.com/kubernetes-sigs/kueue/pull/17538) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
+- [kueueviz: show the namespace of LocalQueues on the ClusterQueue page](https://github.com/kubernetes-sigs/kueue/pull/17780) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
 - [kueueviz: show implicit Cohorts](https://github.com/kubernetes-sigs/kueue/pull/17778) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
 - [kueueviz: keep Cohorts in a parent cycle in the tree view](https://github.com/kubernetes-sigs/kueue/pull/17779) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
-- [kueueviz: show the namespace of LocalQueues on the ClusterQueue page](https://github.com/kubernetes-sigs/kueue/pull/17780) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
-- [kueueviz: show the real pod set count on workload pages](https://github.com/kubernetes-sigs/kueue/pull/17538) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
-- [kueueviz: clear websocket data when the URL changes](https://github.com/kubernetes-sigs/kueue/pull/17535) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
 <!-- REVIEW:END -->
 
 <details>
