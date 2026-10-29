@@ -86,8 +86,8 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### 🔄 In review
 
 <!-- REVIEW:START -->
-- [kueueviz: clear websocket data when the URL changes](https://github.com/kubernetes-sigs/kueue/pull/17535) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
-- [kueueviz: show the real pod set count on workload pages](https://github.com/kubernetes-sigs/kueue/pull/17538) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
+- [fix(dashboard): pass PR-open predicate to stageTrackerResolveLinkedPRs calls](https://github.com/hivecommons/hive/pull/15324) · [hivecommons/hive](https://github.com/hivecommons/hive) · opened 29 Oct 2026
+- [fix: stop dropping tail\_500 from pane-timeout self-report diagnostics](https://github.com/hivecommons/hive/pull/15319) · [hivecommons/hive](https://github.com/hivecommons/hive) · opened 29 Oct 2026
 - [kueueviz: show the namespace of LocalQueues on the ClusterQueue page](https://github.com/kubernetes-sigs/kueue/pull/17780) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
 - [kueueviz: show implicit Cohorts](https://github.com/kubernetes-sigs/kueue/pull/17778) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
 - [kueueviz: keep Cohorts in a parent cycle in the tree view](https://github.com/kubernetes-sigs/kueue/pull/17779) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
