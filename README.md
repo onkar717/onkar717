@@ -75,22 +75,22 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### ✅ Latest merged
 
 <!-- MERGED:START -->
+- [ci: enforce devDependency npm audit gate, drop continue-on-error](https://github.com/hivecommons/docs/pull/531) · [hivecommons/docs](https://github.com/hivecommons/docs) · merged 30 Oct 2026
+- [kueueviz: show optional taint and toleration fields without undefined](https://github.com/kubernetes-sigs/kueue/pull/18014) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 30 Oct 2026
 - [fix: stop dropping tail\_500 from pane-timeout self-report diagnostics](https://github.com/hivecommons/hive/pull/15319) · [hivecommons/hive](https://github.com/hivecommons/hive) · merged 29 Oct 2026
 - [kueueviz: read owner references and event names from metadata](https://github.com/kubernetes-sigs/kueue/pull/17536) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 23 Oct 2026
 - [Show the release note in the /set-release-note success comment](https://github.com/kubernetes-sigs/kueue/pull/17606) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 23 Oct 2026
 - [Exclude trailing Prow commands from /set-release-note](https://github.com/kubernetes-sigs/kueue/pull/17101) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 22 Oct 2026
-- [\[release-0.19\] kueueviz: fetch the flavor once for flavor details](https://github.com/kubernetes-sigs/kueue/pull/17568) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 21 Oct 2026
-- [kueueviz: fetch the flavor once for flavor details](https://github.com/kubernetes-sigs/kueue/pull/17537) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · merged 21 Oct 2026
 <!-- MERGED:END -->
 
 #### 🔄 In review
 
 <!-- REVIEW:START -->
-- [kueueviz: show optional taint and toleration fields without undefined](https://github.com/kubernetes-sigs/kueue/pull/18014) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 30 Oct 2026
 - [kueueviz: show the namespace of LocalQueues on the ClusterQueue page](https://github.com/kubernetes-sigs/kueue/pull/17780) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
 - [kueueviz: clear websocket data when the URL changes](https://github.com/kubernetes-sigs/kueue/pull/17535) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
 - [kueueviz: show the real pod set count on workload pages](https://github.com/kubernetes-sigs/kueue/pull/17538) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
 - [kueueviz: keep Cohorts in a parent cycle in the tree view](https://github.com/kubernetes-sigs/kueue/pull/17779) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
+- [kueueviz: show implicit Cohorts](https://github.com/kubernetes-sigs/kueue/pull/17778) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
 <!-- REVIEW:END -->
 
 <details>
