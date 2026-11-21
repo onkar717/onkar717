@@ -86,11 +86,11 @@ The counts below are live. Click any number to see the pull requests behind it.
 #### 🔄 In review
 
 <!-- REVIEW:START -->
+- [Improve test coverage for Catalina valves](https://github.com/apache/tomcat/pull/980) · [apache/tomcat](https://github.com/apache/tomcat) · opened 5 Apr 2026
+- [Improve test coverage for JsonErrorReportValve, JsonAccessLogValve and HealthCheckValve](https://github.com/apache/tomcat/pull/981) · [apache/tomcat](https://github.com/apache/tomcat) · opened 6 Apr 2026
 - [kueueviz: clear websocket data when the URL changes](https://github.com/kubernetes-sigs/kueue/pull/17535) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 21 Oct 2026
 - [kueueviz: show implicit Cohorts](https://github.com/kubernetes-sigs/kueue/pull/17778) · [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) · opened 27 Oct 2026
 - [fix(tls): find the keystore Tomcat actually uses](https://github.com/web-servers/jws-diag/pull/70) · [web-servers/jws-diag](https://github.com/web-servers/jws-diag) · opened 24 Sep 2026
-- [FIX: backport duplicate y-tick position fix from waterfall() to waterfall\_legacy()](https://github.com/shap/shap/pull/4967) · [shap/shap](https://github.com/shap/shap) · opened 4 May 2026
-- [fix: unpack np.where() tuple in potential\_interactions() to prevent ValueError](https://github.com/shap/shap/pull/4976) · [shap/shap](https://github.com/shap/shap) · opened 6 May 2026
 <!-- REVIEW:END -->
 
 <details>
